@@ -1,0 +1,10 @@
+export const menu = [
+  { _id: 'roast-bowl', name: 'Sunday roast bowl', description: 'Slow-roasted chicken, herby potatoes, greens & lemon gravy.', category: 'Mains', price: 14.5, rating: 4.9, time: '25 min', tag: 'Bestseller', image: 'photo-1547592180-85f173990554', tint: 'sage' },
+  { _id: 'garden-pasta', name: 'Garden pesto pasta', description: 'Basil pesto, blistered tomatoes, parmesan & toasted pine nuts.', category: 'Mains', price: 13, rating: 4.8, time: '20 min', tag: 'Veggie', image: 'photo-1473093295043-cdd812d0e601', tint: 'peach' },
+  { _id: 'crispy-tacos', name: 'Crispy fish tacos', description: 'Golden cod, crunchy slaw, pickled onion & smoky crema.', category: 'Mains', price: 15.5, rating: 4.9, time: '30 min', tag: 'Popular', image: 'photo-1551504734-5ee1c4a1479b', tint: 'yellow' },
+  { _id: 'green-salad', name: 'Little green salad', description: 'Avocado, cucumber, edamame & ginger sesame dressing.', category: 'Salads', price: 11, rating: 4.7, time: '15 min', tag: 'Fresh pick', image: 'photo-1512621776951-a57141f2eefd', tint: 'mint' },
+  { _id: 'tomato-soup', name: 'Roasted tomato soup', description: 'Slow-roasted tomatoes, basil oil & sourdough for dipping.', category: 'Sides', price: 8.5, rating: 4.8, time: '15 min', tag: 'Comfort food', image: 'photo-1547592166-23ac45744acd', tint: 'peach' },
+  { _id: 'market-sandwich', name: 'Market club sandwich', description: 'Free-range chicken, smashed avocado & crisp little gem.', category: 'Mains', price: 12.5, rating: 4.6, time: '15 min', tag: 'Lunch fave', image: 'photo-1528735602780-2552fd46c7af', tint: 'sage' },
+  { _id: 'berry-yogurt', name: 'Berry breakfast pot', description: 'Thick Greek yogurt, maple granola & seasonal berries.', category: 'Breakfast', price: 7.5, rating: 4.8, time: '5 min', tag: 'No prep', image: 'photo-1488477181946-6428a0291777', tint: 'pink' },
+  { _id: 'lemon-cake', name: 'Olive oil lemon cake', description: 'Soft crumb, bright citrus & a spoonful of whipped cream.', category: 'Treats', price: 6.5, rating: 4.9, time: '5 min', tag: 'A little treat', image: 'photo-1519915028121-7d3463d20b13', tint: 'yellow' },
+];
